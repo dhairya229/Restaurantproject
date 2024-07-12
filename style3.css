@@ -1,0 +1,231 @@
+body {
+    background-color: #ebe3ce;
+    overflow-x: hidden;
+}
+
+#navbar {
+    margin: 3%;
+}
+.navbar{
+    background-color: #142131;
+}
+
+.navbar-brand {
+    font-family: "DM Serif Display", serif;
+}
+
+.navbar-sign {
+    color: #12ba9c;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#nav-link {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+.sign-up-btn{
+    text-align: center;
+}
+#nav-link :hover {
+    color: green;
+    transition: 0.2s;
+}
+
+.start-heading {
+    padding-left: 24px;
+}
+
+
+h1 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+}
+
+h2 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h4 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h5 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #162a38;
+}
+
+.lead {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+p {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.btn-explore {
+    background-color: #fc570d;
+    color: #ebe3ce;
+    border: none;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.see-menu{
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+}
+
+
+.book-table {
+    padding-left: 74px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.book-container {
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.row {
+    align-items: center;
+}
+
+.form-control {
+    background-color: #ebe3ce;
+    border-radius: 15px;
+    padding: 30px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.form-group {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.btn-availability {
+    background-color: #12ba9c;
+    color: #ebe3ce;
+    border-radius: 15px;
+    padding: 15px;
+    border: none;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+#btn-check-availability{
+    text-align: center;
+}
+
+.card {
+    border-radius: 25px;
+}
+
+#meat {
+    width: 45%;
+    height: 45%;
+    margin: auto;
+}
+
+#fish {
+    width: 45%;
+    height: 45%;
+    margin: auto;
+}
+
+#drink {
+    width: 45%;
+    height: 45%;
+    margin: auto;
+}
+
+.card-title {
+    font-family: "DM Serif Display", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+#read-more {
+    background-color: #df581e;
+    color: #ebe3ce;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.food-read-more {
+    text-align: center;
+}
+
+.COVID-19 {
+    color: #12ba9c;
+}
+
+.Table-image {
+    width: 10%;
+    height: 15%;
+    float: right;
+}
+
+.Table-image2 {
+    width: 10%;
+    height: 15%;
+    float: left;
+}
+
+#read-more-next-page {
+    background-color: #6ab99c;
+    border: none;
+    color: #ebe3ce;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 auto;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.more {
+    text-align: center;
+}
